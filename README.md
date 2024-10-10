@@ -1,4 +1,4 @@
-# DocumentQA
+# DocumentQA Rag with Ollama
 
 Hi, this a pretty simple example of local RAG done with Ollama models. You can use it as a head-up.
 This code was made to solve the test task.
